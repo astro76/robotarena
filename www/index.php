@@ -58,7 +58,7 @@
   $BPosition = $arena->robots["B"]["position"];
   $BLife = $arena->robots["B"]["life"];
   ?>
-  <h4><span class="playerB">RobotB</span> (<?php echo $BLife;?>) sees :</h4>
+  <h4><span class="playerB">Robot__B</span> (<?php echo $BLife;?>) sees :</h4>
 <pre>
 <?php 
   list($mx,$my) = [5,5];
